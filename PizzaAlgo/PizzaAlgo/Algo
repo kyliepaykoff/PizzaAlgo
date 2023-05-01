@@ -1,8 +1,13 @@
 Decide where you want pizza from
+1a. Do you want anything else?
 Look up store information
 Decide what pizza you want
-Call
+4a. Decide and other food you want
+4b. Do you want to order any drinks?
+Call  
+7a. Or online order
 Place order
 Wait for food to arrive
 Pay and tip
 Eat and enjoy
+Cleanup dinner
